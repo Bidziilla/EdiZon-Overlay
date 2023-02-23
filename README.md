@@ -6,9 +6,9 @@ Continued Support by proferabg
 <br />
 <br />
 
-# Latest Changelog - v1.0.3
+# Latest Changelog - v1.0.4
 
-    Full HOS 15 Support
+    Full HOS 16 Support
     Displays Connection Status instead of WiFi Signal in System Information on HOS versions 15+
 <br />
 
